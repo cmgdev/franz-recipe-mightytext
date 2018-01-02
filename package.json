@@ -1,0 +1,14 @@
+{
+  "id": "mightytext",
+  "name": "MightyText",
+  "version": "1.0.0",
+  "description": "MightyText",
+  "main": "index.js",
+  "author": "cmgdev",
+  "license": "MIT",
+  "repository": "https://github.com/cmgdev/franz-recipe-mightytext",
+  "config": {
+    "serviceURL": "https://mightytext.net/web8/",
+    "hasNotificationSound": true
+  }
+}
